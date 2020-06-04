@@ -1,0 +1,3 @@
+include ':floweventbus'
+include ':app'
+rootProject.name = "FlowEventBus-Example"
